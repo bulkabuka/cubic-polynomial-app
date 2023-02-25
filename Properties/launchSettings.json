@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CubicPolynomialApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CubicPolynomialApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
